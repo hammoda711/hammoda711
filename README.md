@@ -5,7 +5,7 @@ I'm Moahmed Taher a backend developer skilled in Python and Django, specializing
 ## 🧩 Problem Solving
 
 - **LeetCode**: [Link to my profile](https://leetcode.com/u/mohamed-taher/)
-- **Biscuits**: [other problems](https://github.com/hammoda711/my-links)
+- **Biscuits**: [other problems](https://github.com/hammoda711/my-links/blob/main/other-solved-problems.md)
 
 ## 💻 Projects
 
