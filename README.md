@@ -7,6 +7,7 @@ I'm Moahmed Taher a backend developer skilled in Python and Django, specializing
 - **LeetCode**: [Link to my profile](https://leetcode.com/u/mohamed-taher/)
 - **Biscuits**: [other problems](https://github.com/hammoda711/my-links/blob/main/other-solved-problems.md)
 
+
 ## 💻 Projects
 
 - **Project 1**:[EventManagementAPI](https://github.com/hammoda711/EventManagementAPI)
@@ -16,9 +17,11 @@ I'm Moahmed Taher a backend developer skilled in Python and Django, specializing
 - **Project 3**:[job-board-django-py.](https://github.com/hammoda711/job-board-django-py)
   - A job board web application built using Django in the MVT (Model-View-Template) design pattern.
 
+
 ## 🗄️ Database
 
 - Databse full project: [e-commerce-order-management-system-db-sql](https://github.com/hammoda711/e-commerce-order-management-system-db-sql)
+
 
 ## 🔗 Let's Connect!
 
