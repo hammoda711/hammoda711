@@ -20,7 +20,7 @@ I'm Moahmed Taher a backend developer skilled in Python and Django, specializing
 
 ## 🗄️ Database
 
-- Databse full project: [e-commerce-order-management-system-db-sql](https://github.com/hammoda711/e-commerce-order-management-system-db-sql)
+- **project 1**: [e-commerce-order-management-system-db-sql](https://github.com/hammoda711/e-commerce-order-management-system-db-sql)
 
 
 ## 🔗 Let's Connect!
